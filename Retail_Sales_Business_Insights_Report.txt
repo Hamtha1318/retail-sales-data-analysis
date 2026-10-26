@@ -1,0 +1,50 @@
+
+RETAIL SALES DATA ANALYSIS
+Exploratory Data Analysis (EDA)
+
+1. PROJECT OBJECTIVE
+Analyze retail transaction data to explore sales performance,
+product categories, regional patterns, customer types and trends.
+
+2. DATASET OVERVIEW
+- Total transactions: 500
+- Product categories: 4
+- Regions: 4
+- Total units sold: 2461
+- Missing values: 0
+- Duplicate rows: 0
+
+Note: This dataset is simulated for educational purposes.
+
+3. KEY PERFORMANCE INDICATORS
+- Total sales: 6,388,070.00
+- Average order value: 12,776.14
+- Average unit price: 2,549.02
+- Total orders: 500
+
+4. KEY FINDINGS
+- Highest-revenue category: Home & Kitchen
+  Sales: 1,819,808.00
+- Highest-revenue region: East
+  Sales: 1,658,093.00
+- Highest-sales month: 2025-04
+  Sales: 644,277.00
+- Category with the highest unit volume: Home & Kitchen
+- Customer type contributing the most sales: Returning
+- Potential sales outlier transactions identified: 5
+
+5. BUSINESS RECOMMENDATIONS
+- Review category-level revenue and unit volumes before planning stock.
+- Compare regional sales when allocating inventory.
+- Monitor monthly sales trends for future planning.
+- Compare new and returning customer transaction patterns.
+- Investigate unusual transaction values before taking action.
+
+6. LIMITATIONS
+The dataset is randomly generated and does not represent an
+actual retailer. Results cannot establish genuine market demand,
+seasonality or customer behaviour. Real transaction data would
+be required to validate these patterns.
+
+7. TOOLS
+Python, Pandas, NumPy, Matplotlib, Seaborn and Google Colab.
